@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="taskManager">مدیریت وظایف</string>
+    <string name="dontWork">انجام نشده</string>
+    <string name="doWork">انجام شده</string>
+    <string name="todo">todo</string>
+    <string name="addTask">اضافه کردن وظیفه</string>
+    <string name="hint">وظیفه را وارد کنید</string>
+    <string name="saveBtn">ذخیره کردن</string>
+    <string name="cancelBtn">منصرف شدن</string>
+</resources>
