@@ -29,6 +29,7 @@
 - محیط توسعه: **Android Studio**
  minSdk = 24
 targetSdk = 34
+- کد های منسوخ شده
 
 <table style="width:100%">
   <tr>
